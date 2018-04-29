@@ -20,13 +20,13 @@ code blocks
 
 .. highlight:: ruby
 
-::
+* list::
 
    def main
       'result'
    end
 
-::
+nonlist::
 
    #include <stdlib.h>
    int main(int argc, char** argv)
